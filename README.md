@@ -1,0 +1,2 @@
+# Muestreo práctico
+•	Se requiere un script que reciba los parámetros muestreo y cuantización (fs y q) para una señal de audio/voz capturada a través del micrófono o de un archivo. El script debe recibir la señal de audio (del micrófono o del archivo) y realizar los procesos de muestreo y cuantización, graficando las señales (original, PAM y PAM cuantizada), el error de cuantización y el ruido de cuantización. Utilice varias combinaciones de parámetros y la reproducción del audio original y el recuperado para comparar.
